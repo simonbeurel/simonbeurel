@@ -1,16 +1,19 @@
-## Hi there 👋
+![bannerbegin](https://res.cloudinary.com/omaha-code/image/upload/ar_4:3,c_fill,dpr_1.0,e_art:quartz,g_auto,h_396,q_auto:best,t_Linkedin_official,w_1584/v1561576558/mountains-1412683_1280.png)
 
-<!--
-**simonbeurel/simonbeurel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 About me
+I'm an IT Student at Polytech Nice Sophia in France. 
 
-Here are some ideas to get you started:
+My goal is to become an engineer specialized in Cybersecurity.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🎓 My skills : 
+- Python / Rust / Java / C-C++ / Javascript / C#
+- Linux (Kali-Linux, Ubuntu, Debian) / Windows / VirtualBox / WSL /Docker
+- Tensorflow / PyTorch
+  
+# 🔭 My personal projects 
+- RootMe : https://www.root-me.org/s1o
+- Elena project : Coming soon... (Python)
+- Rust-DABS : Coming soon... (Rust, in collaboration with Arnaud Dumanois)
+
+# 📫 Contact me : 
+- www.linkedin.com/in/simon-beurel
