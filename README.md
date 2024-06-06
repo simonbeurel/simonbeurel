@@ -11,10 +11,10 @@ My goal is to become an engineer specialized in Cybersecurity.
 - Tensorflow / PyTorch
   
 # 🔭 My personal projects 
-- RootMe : https://www.root-me.org/s1o
-- Elena project : Coming soon... (*Python*)
-- Rust-DABS : Coming soon... (*Rust, in collaboration with Arnaud Dumanois*)
-- PokeRogueHelper : A small google chrome extension to help players find the weaknesses of their opponents (*Javascript*)
+- RootMe: https://www.root-me.org/s1o
+- Elena project: Coming soon... (*Python*)
+- Rust-DABS: Coming soon... (*Rust, in collaboration with Arnaud Dumanois*)
+- [PokeRogueHelper](https://github.com/simonbeurel/PokeRogueHelper): A small google chrome extension to help players find the weaknesses of their opponents (*Javascript*)
 
 # 🔎 My school projects
 - *TODO*
