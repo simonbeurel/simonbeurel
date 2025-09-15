@@ -1,9 +1,9 @@
 ![bannerbegin](https://res.cloudinary.com/omaha-code/image/upload/ar_4:3,c_fill,dpr_1.0,e_art:quartz,g_auto,h_396,q_auto:best,t_Linkedin_official,w_1584/v1561576558/mountains-1412683_1280.png)
 
 # 👋 About me
-I'm an IT Student at Polytech Nice Sophia in France. 
+I'm a graduated cybersecurity engineer.
 
-My goal is to become an engineer specialized in Cybersecurity.  
+My goal is to work as an engineer specialized in Cybersecurity.  
 
 # 🎓 My skills : 
 - Python / Rust / Java / C-C++ / Javascript / C#
@@ -12,8 +12,8 @@ My goal is to become an engineer specialized in Cybersecurity.
   
 # 🔭 Personal projects 
 - RootMe: https://www.root-me.org/s1o
-- Elena project: Coming soon... (*Python*)
-- Rust-DABS: Coming soon... (*Rust, in collaboration with Arnaud Dumanois*)
+- [Elena project](https://github.com/simonbeurel/Projet-Elena): Python scrapper to retrieve different tennis player statistics and predict match statistics.
+- [Rust-DABS](https://github.com/simonbeurel/Rust-DABS): Network intrusion detection system developed in Rust (in collaboration with Arnaud Dumanois), capable of identifying signs of network saturation and other abnormal behavior. 
 - [PokeRogueHelper](https://github.com/simonbeurel/PokeRogueHelper): A small google chrome extension to help players find the weaknesses of their opponents (*Javascript*)
 - [CPII](https://github.com/simonbeurel/CPII): Algorithm for cutting Pleiades images based on IGN images made during an internship at IUEM (https://www-iuem.univ-brest.fr/) (*Python, Scripting*)
 - [Pix2Pix Algorithm](https://github.com/simonbeurel/Pix2Pix_Algorithm): Pix2Pix's implementation made during an internship at IUEM (see link above) (*Python, Deep Learning*)
